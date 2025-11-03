@@ -1,5 +1,5 @@
-## 💻  Diego Felix.  👋
-# He/Him
+# 💻  Diego Felix.  👋
+## He/Him
 
 <!--
 **DiegoFelittz/DiegoFelittz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

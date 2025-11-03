@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💻  Diego Felix.  👋
 
 <!--
 **DiegoFelittz/DiegoFelittz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**ES 🇪🇸**  
+Estudiante de Ingeniería en Software | Apasionado por el backend, la seguridad y las bases de datos.  
+Me interesa el parsing, la arquitectura de software y la creación de interfaces limpias y responsivas.

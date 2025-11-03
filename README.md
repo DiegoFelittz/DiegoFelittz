@@ -27,7 +27,7 @@ Interested in parsing, software architecture, and building clean and responsive 
 ---
 
 ### 🧰 Tecnologías / Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java]([https://static.vecteezy.com/system/resources/previews/019/899/948/non_2x/java-free-download-free-png.png])
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,8 +41,6 @@ Interested in parsing, software architecture, and building clean and responsive 
 - Parsing y manejo de datos / Data parsing & processing
 - Explorando inteligencia artificial aplicada / Exploring applied AI
 - Introducción a DevOps y Docker / Intro to DevOps & Docker
-
----
 
 ## 📫  How to reach me: 😄
 

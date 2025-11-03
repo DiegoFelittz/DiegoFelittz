@@ -65,4 +65,4 @@ Interested in parsing, software architecture, and building clean and responsive 
 
 ## 📫  How to reach me: 😄
 
-📫 [LinkedIn](https://linkedin.com/in/DiegoFelittz) | [Email](rivasfelixdiegoalexander@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/DiegoFelittz) | [Gmail](mailto:rivasfelixdiegoalexander@gmail.com)
